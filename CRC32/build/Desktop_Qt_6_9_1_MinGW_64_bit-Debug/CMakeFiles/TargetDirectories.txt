@@ -1,0 +1,9 @@
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CRC32.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CRC32_autogen_timestamp_deps.dir
+Z:/Qt projects/CRC32/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CRC32_autogen.dir
